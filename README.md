@@ -23,5 +23,5 @@
     spring.datasource.username={имя_пользователя}
 
     spring.datasource.password={пароль}
-5. Запустите проект, в браузере откройте:
+5. Запустите проект, нажав (Run, если работате в IntelliJ IDEA), после чего в браузере откройте:
    http://localhost:8080/swagger-ui/index.html
